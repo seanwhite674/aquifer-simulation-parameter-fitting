@@ -8,8 +8,9 @@ The goal was to solve nonlinear PDEs describing aquifer behaviour, compute flux 
 
 ## Explaining This Repository
 
-- `Final_notebook` → Contains the bulk of the work. Solving the simplified PDEs and fitting the Flux to data.
-- `hyrdodata` → Contains real hydrograph data from **Virginia, Georgia, Illinois, and Texas**
+- `Final_notebook.ipynb` → Contains the bulk of the work. Solving the simplified PDEs and fitting the Flux to data.
+- `hyrdodata.xlsx` → Contains real hydrograph data from **Virginia, Georgia, Illinois, and Texas**.
+- `MathofSustainabilityProject.pdf` → Contains the final presented work in presentation format.
 
 ---
 
